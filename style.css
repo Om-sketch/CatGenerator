@@ -1,0 +1,20 @@
+body{
+    background-color: springgreen;
+}
+.container-1 div{
+    margin:5px 5px 5px 5px;
+    text-align: center;
+}
+.flex-box-container-1{
+    display: flex;
+    padding:10px;
+    border: 1px solid slategray;
+    flex-direction: row;
+    flex-wrap:wrap;
+    justify-content: center;
+}
+.flex-box-container-1 img{
+    border: 1px solid black;
+    padding:10px;
+    box-shadow: 0px 10px 50px rgba(0,0,0,0);
+}
